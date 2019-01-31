@@ -93,6 +93,16 @@ body{
     margin-top: auto;
 }
 
+.modal-wrapper{
+    display: none;
+}
+
+.modal-wrapper{
+    display: none;
+}
+
+
+
 @media (max-width: 700px) {
     .content{
         width: 250px;
